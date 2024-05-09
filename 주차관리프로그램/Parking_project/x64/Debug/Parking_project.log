@@ -1,3 +1,0 @@
-﻿  Parking_projectDlg.cpp
-C:\Users\SEO\OneDrive\바탕 화면\합친거3 (2) (2)\Parking_project\Parking_projectDlg.cpp(540,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Parking_project.vcxproj -> C:\Users\SEO\OneDrive\바탕 화면\합친거3 (2) (2)\x64\Debug\Parking_project.exe
